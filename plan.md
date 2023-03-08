@@ -18,8 +18,9 @@ The input string will only consist of lower case letters and/or spaces.
 - TypeScript
 
 # Plan
-- install TypeScript, Mocha & Chai and any types for them if necessary
+- install TypeScript, Mocha & Chai and any types for them if necessary ✔
 - watch a few quick youtube videos/read articles to learn about using Mocha & Chai
+- create a test for something simple and self contained 1 + 1 = 2 just to check its set up right
 - create one test which will fail bc no code in .ts doc
 - write a function that returns the right answer to the specific test case to check the test works
 - create a few more tests for other phrases

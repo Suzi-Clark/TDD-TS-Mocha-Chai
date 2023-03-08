@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "ts-mocha",
+    "test": "ts-mocha ./src/**/*.spec.ts",
     "test-coverage": "nyc npm test"
   },
   "keywords": [],
